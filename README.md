@@ -1,6 +1,8 @@
 # BarbarianLab-Releases
 A Level Editor for the 'Back Off Barbarian' Minigame in Castle Crashers.
 
+Source Code Repository: https://github.com/SymmGitHub/BarbarianLab
+
 # Credits
 Symm - Coding and UI
 
